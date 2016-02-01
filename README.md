@@ -29,13 +29,13 @@ En esta charla exploramos como construir programas que se modifiquen a si mismos
 - Contextualización & Reflexión En La Composición
 
 #### Capítulo 3. El Framework Polymer
-￼- Técnicas de Adición Composi1va
+- Técnicas de Adición Composi1va
 - Técnicas de Extensión Composi1va
 - Técnicas de Intercesión Composi1va
 - Técnicas de Delegación Composi1va
 
 #### Capítulo 4. Ecosistema de Componentes de Polymer
-￼- Modelos Arquitectónicos Basados en Adición
+- Modelos Arquitectónicos Basados en Adición
 - Modelos Arquitectónicos Basados en Intercesión
 - Modelos Arquitectónicos Basados en Delegación
 
